@@ -1,0 +1,1 @@
+# Classification-Approach-of-Alzheimer-s-by-MRI-Imaging-Gene-Detection-Automatic-Speech-Recognition
